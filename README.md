@@ -14,5 +14,9 @@ This repository is intended for academic and research purposes. The report can b
 ## Citation
 James Orion. *James Orion Report (JOR) Bayesian Fusion: Evidence-Driven SOP and NHP Analysis of UAP Cases*. 2025. Available at: [GitHub repository link]
 
+## DOI Link
+This work is published as a preprint on Zenodo: [DOI: 10.5281/zenodo.18088932](https://doi.org/10.5281/zenodo.18088932)
+
+
 ## License
 This work is licensed under [Creative Commons Zero v1.0 Universal](https://creativecommons.org/publicdomain/zero/1.0/).
