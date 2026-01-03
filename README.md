@@ -23,7 +23,7 @@ James Orion. *James Orion Report (JOR) Bayesian Fusion: Evidence-Driven Integrat
 
 ## DOI
 This work is published as a preprint on Zenodo:  
-https://doi.org/10.5281/zenodo.18088932
+(https://doi.org/10.5281/zenodo.18135416)
 
 ## License
 This work is licensed under the Creative Commons Zero v1.0 Universal (CC0 1.0).
