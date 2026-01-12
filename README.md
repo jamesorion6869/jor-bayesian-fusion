@@ -1,4 +1,4 @@
-# jor-bayesian-fusion
+# jor-bayesian-fusion-V3
 Evidence-driven fusion of SOP, NHP, and Bayesian inference for UAP case evaluation
 
 ## Overview
@@ -7,7 +7,7 @@ This repository contains the James Orion Report (JOR) Bayesian Fusion framework,
 The framework is explicitly evidence-first: confidence in non-human explanations is permitted to grow **only when the physical and observational evidence supports the presence of a genuine, well-characterized object**. While SOP and NHP are computed independently, interpretive logic constrains NHP by the evidentiary strength established through SOP, preventing misclassification of ambiguous or poorly supported cases.
 
 ## Contents
-- `jor_bayesian_fusion.pdf` — the full report, including methodology and case studies
+- `jor-bayesian-fusion-V3.pdf` — the full report, including methodology and case studies
 - `README.md` — this file
 
 ## Usage
