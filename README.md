@@ -5,6 +5,10 @@ Evidence-driven fusion of SOP, NHP, and Bayesian inference for UAP case evaluati
 **Reference Python implementation:** [JOR-Framework-v3](https://github.com/jamesorion6869/JOR-Framework-v3)  
 **Zenodo DOI (preprint):** [10.5281/zenodo.18088931](https://doi.org/10.5281/zenodo.18088931)
 
+## Framework Intent
+
+The JOR Bayesian Fusion framework is designed to evaluate UAP cases probabilistically based on evidence. Interpretive logic constrains NHP by SOP, preventing unsupported non-human conclusions. The framework is intended for analytical use, not for claim-making or automated classification.
+
 ## Overview
 This repository contains the James Orion Report (JOR) Bayesian Fusion framework, which integrates Solid Object Probability (SOP), Non-Human Probability (NHP), and Bayesian updating to rigorously evaluate UAP (Unidentified Aerial Phenomena) cases.
 
