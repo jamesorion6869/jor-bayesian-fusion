@@ -1,9 +1,9 @@
-# jor-bayesian-fusion-V3
-**Stable preprint — version 3.0**  
+# jor-bayesian-fusion-V3-1
+**Stable preprint — version 3.1**  
 Evidence-driven fusion of SOP, NHP, and Bayesian inference for UAP case evaluation
 
-**Reference Python implementation:** [JOR-Framework-v3](https://github.com/jamesorion6869/JOR-Framework-v3)  
-**Zenodo DOI (preprint):** [10.5281/zenodo.18088931](https://doi.org/10.5281/zenodo.18088931)
+**Reference Python implementation:** [JOR_PYMC_V3_1](https://github.com/jamesorion6869/JOR_PYMC_V3_1)  
+**Zenodo DOI (preprint):** [10.5281/zenodo.20368678](https://doi.org/10.5281/zenodo.20368678)
 
 ## Framework Intent
 
