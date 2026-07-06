@@ -1,4 +1,8 @@
 # jor-bayesian-fusion-V3-1
+
+![Status](https://img.shields.io/badge/Status-Project_Complete-brightgreen.svg)  
+**Version:** 3.1 Final Release
+
 **Stable preprint — version 3.1**  
 Evidence-driven fusion of SOP, NHP, and Bayesian inference for UAP case evaluation
 
