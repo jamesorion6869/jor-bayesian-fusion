@@ -36,5 +36,5 @@ UAP, UFO, Bayesian inference, uncertainty analysis, evidence-based reasoning, pr
 James Orion. *James Orion Report (JOR) Bayesian Fusion: Evidence-Driven Integration of SOP, NHP, and Bayesian Inference for UAP Case Evaluation*. 2025.
 
 ## License
-[MIT](LICENSE) — Copyright (c) 2026 Jake James
+
 
