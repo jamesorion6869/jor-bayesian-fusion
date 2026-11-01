@@ -37,4 +37,4 @@ James Orion. *James Orion Report (JOR) Bayesian Fusion: Evidence-Driven Integrat
 
 ## License
 
-
+[CC BY 4.0](LICENSE) — Copyright (c) 2026 Jake James
